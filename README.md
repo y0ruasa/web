@@ -4,3 +4,5 @@
 [Чек-лист для корзины и страницы оплаты](https://docs.google.com/spreadsheets/d/1Pbna6yEGXzehRvwJXh8FnPuwHyhJiewa/edit#gid=2109830468)
 
 [Тест-кейсы для корзины и страницы оплаты](https://app.qase.io/project/G7?suite=241&previewMode=side)
+>[QASE PDF](https://github.com/user-attachments/files/15525637/G7-2024-06-02.pdf)
+
